@@ -672,6 +672,7 @@ cmp.setup {
 vim.o.relativenumber = true
 vim.o.wrap = false
 vim.o.scrolloff = 14
+vim.o.is = 'hls'
 
 -- Code Folding
 
